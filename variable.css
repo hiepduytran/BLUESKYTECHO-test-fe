@@ -1,0 +1,43 @@
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub-line {
+    width: 1px;
+    height: 14px;
+    background-color: #E5E8EC;
+}
+.fw-600 {
+    font-weight: 600
+}
+.fw-700 {
+    font-weight: 700
+}
+.fs-20 {
+    font-size: 20px ;
+}
+.fs-30 {
+    font-size: 30px ;
+}
+.t-red {
+    color: #DC323C ;
+}
+.t-gray {
+    color: #8D979E;
+}
+.t-green {
+    color: #008A00;
+}
+.t-blue {
+    color: #2B38D1 ;
+}
+.t-black {
+    color: #212529 ;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.bb-primary {
+    border-bottom: 1px solid #E5E8EC;
+}
