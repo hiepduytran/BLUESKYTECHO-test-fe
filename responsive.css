@@ -131,6 +131,9 @@
     .utilities-container .search-container button {
         display: none;
     }
+    .nav-container .all-categories {
+        margin-left: 10px;
+    }
     .banner .heading {
         font-size: 30px;
     }
@@ -230,6 +233,12 @@
         margin-left: 0px;
         font-size: 11px;
     }
+    .nav-container {
+        margin-right: 0px;
+    }
+    .nav-container .all-categories {
+        margin-left: 0px;
+    }
     .banner .heading-container {
         margin-right: 0px;
     }
@@ -255,4 +264,8 @@
     .copyright .payment-method img {
         width: 20px;
     }
+    .newsletter .subscribe button {
+        padding: 2px;
+    }
+
 }
